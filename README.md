@@ -34,12 +34,14 @@
 
 ## Задание 1
 Написать программу Hello World на Python с запуском в Jupiter Notebook.
+https://github.com/TureNate/chixpix/blob/main/HelloW.ipynb
 ```
 print('Hello World')
 ```
 
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity.
+https://github.com/TureNate/chixpix/blob/main/aboba1.cs
 ```
 public class aboba1 : MonoBehaviour
 {
